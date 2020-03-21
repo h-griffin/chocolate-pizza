@@ -1,0 +1,11 @@
+body{
+  color: grey;
+}
+
+article #indent {
+    text-indent: 50px;
+  }
+ 
+ li #linethrough {
+    text-decoration: line-through;
+  }
