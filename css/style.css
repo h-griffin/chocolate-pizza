@@ -1,0 +1,84 @@
+header{
+  border: solid black thin;
+  display: inline-block;
+  width: 100%;
+  margin: 10px auto;
+
+}
+header div{
+  border: solid black thin;
+  display: inline-block;
+}
+
+
+body{
+  border: solid black thin;
+  width: 900px;
+  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  color: grey;
+}
+#icons6{
+  border: solid black thin;
+  display: inline-block;
+  width: 175px;
+  margin-left: 390px;
+}
+
+#icons2{
+  border: solid black thin;
+  display: inline-block;
+  width: 60px;
+  margin-left: 1px;
+}
+
+#logoText h1{
+  border: solid black thin;
+  display: inline-block;
+  width: 100%
+}
+
+#logoText{
+  border: solid black thin;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+article #indent {
+  border: solid black thin;
+    text-indent: 50px;
+  }
+ 
+ li #linethrough {
+  border: solid black thin;
+    text-decoration: line-through;
+  }
+
+#ingredients{
+  border: solid black thin;
+  background-image: url('img/list-bg.png');
+  height: 300px;
+  width: 100%;
+}
+
+#ingredients-right{
+  border: solid black thin;
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  padding-top: 32px;
+  padding-left: 40px;
+  font-size: large;
+}
+
+#ingredients-left{
+  border: solid black thin;
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  padding-top: 32px;
+  padding-left: 40px;
+  font-size: large;
+}
+
