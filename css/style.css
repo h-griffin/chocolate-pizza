@@ -1,3 +1,7 @@
+/* *{
+  border: solid black thin;
+} */
+
 header{
   border: solid black thin;
   display: inline-block;
@@ -57,7 +61,7 @@ article #indent {
 
 #ingredients{
   border: solid black thin;
-  background-image: url('img/list-bg.png');
+  background-image: url(../img/list-bg.png);
   height: 300px;
   width: 100%;
 }
