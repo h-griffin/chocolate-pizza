@@ -3,20 +3,20 @@
 } */
 
 header{
-  border: solid black thin;
+
   display: inline-block;
   width: 100%;
   margin: 10px auto;
 
 }
 header div{
-  border: solid black thin;
+
   display: inline-block;
 }
 
 
 body{
-  border: solid black thin;
+
   width: 900px;
   margin: 5px;
   margin-left: auto;
@@ -24,50 +24,66 @@ body{
   color: grey;
 }
 #icons6{
-  border: solid black thin;
+
   display: inline-block;
   width: 175px;
-  margin-left: 390px;
+  margin-left: 410px;
 }
 
 #icons2{
-  border: solid black thin;
+
   display: inline-block;
   width: 60px;
   margin-left: 1px;
 }
 
 #logoText h1{
-  border: solid black thin;
+
   display: inline-block;
   width: 100%
 }
 
 #logoText{
-  border: solid black thin;
+
   display: inline-block;
   margin-top: 15px;
 }
+#pizzaDate{
+
+  display: inline-block;
+}
+
+#printIcon{
+
+  display: inline-block;
+  margin-left: 630px;
+}
+
+#printText{
+
+  display: inline-block;
+  margin-left: 3px;
+}
 
 article #indent {
-  border: solid black thin;
+
     text-indent: 50px;
   }
  
  li #linethrough {
-  border: solid black thin;
+
     text-decoration: line-through;
   }
 
 #ingredients{
-  border: solid black thin;
+
   background-image: url(../img/list-bg.png);
   height: 300px;
   width: 100%;
 }
 
 #ingredients-right{
-  border: solid black thin;
+
   display: inline-block;
   width: 400px;
   height: 300px;
@@ -77,7 +93,7 @@ article #indent {
 }
 
 #ingredients-left{
-  border: solid black thin;
+
   display: inline-block;
   width: 400px;
   height: 300px;
@@ -86,3 +102,42 @@ article #indent {
   font-size: large;
 }
 
+footer{
+
+  display: inline-block;
+  width: 100%;
+  margin: 10px auto;
+}
+
+#footerTop{
+
+  display: inline-block;
+ 
+}
+
+#footerImage{
+
+  display: inline-block;
+}
+#footerTextBio{
+
+  display: inline-block;
+}
+
+#footerTop h4{
+  font-size: large;
+}
+
+#footerLeft{
+
+  display: inline-block;
+  margin-left: 270px;;
+}
+
+#footerCenter{
+
+  display: inline-block;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+}
